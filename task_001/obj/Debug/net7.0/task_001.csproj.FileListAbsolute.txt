@@ -1,0 +1,15 @@
+D:\Тестировщик geak_brains\C#_Examples\task_001\bin\Debug\net7.0\task_001.exe
+D:\Тестировщик geak_brains\C#_Examples\task_001\bin\Debug\net7.0\task_001.deps.json
+D:\Тестировщик geak_brains\C#_Examples\task_001\bin\Debug\net7.0\task_001.runtimeconfig.json
+D:\Тестировщик geak_brains\C#_Examples\task_001\bin\Debug\net7.0\task_001.dll
+D:\Тестировщик geak_brains\C#_Examples\task_001\bin\Debug\net7.0\task_001.pdb
+D:\Тестировщик geak_brains\C#_Examples\task_001\obj\Debug\net7.0\task_001.csproj.AssemblyReference.cache
+D:\Тестировщик geak_brains\C#_Examples\task_001\obj\Debug\net7.0\task_001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестировщик geak_brains\C#_Examples\task_001\obj\Debug\net7.0\task_001.AssemblyInfoInputs.cache
+D:\Тестировщик geak_brains\C#_Examples\task_001\obj\Debug\net7.0\task_001.AssemblyInfo.cs
+D:\Тестировщик geak_brains\C#_Examples\task_001\obj\Debug\net7.0\task_001.csproj.CoreCompileInputs.cache
+D:\Тестировщик geak_brains\C#_Examples\task_001\obj\Debug\net7.0\task_001.dll
+D:\Тестировщик geak_brains\C#_Examples\task_001\obj\Debug\net7.0\refint\task_001.dll
+D:\Тестировщик geak_brains\C#_Examples\task_001\obj\Debug\net7.0\task_001.pdb
+D:\Тестировщик geak_brains\C#_Examples\task_001\obj\Debug\net7.0\task_001.genruntimeconfig.cache
+D:\Тестировщик geak_brains\C#_Examples\task_001\obj\Debug\net7.0\ref\task_001.dll
