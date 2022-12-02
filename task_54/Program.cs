@@ -79,14 +79,10 @@ int[,] MaxToMin(int[,] array)
 
     }
     return array;
-
-
-
-
 }
 
 int[,] array = generate2DArray(2, 3);
 print2dArray(array);
-int[,] newArray = SummCols(array);
+int[,] newArray = MaxToMin(array);
 print2dArray(newArray);
 
