@@ -27,3 +27,5 @@ void DayOffWeek(int dayWeek)
 
 int number = RandomDidit();
 DayOffWeek(number);
+
+
